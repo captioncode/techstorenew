@@ -1,0 +1,28 @@
+ body{
+     background-color: royalblue;
+ }
+ ul{
+     margin-left: 0px;
+     margin-top: 0px;
+     overflow: hidden;
+     list-style-type:none;  
+     background-color: silver;
+ }
+ li{
+     float: left;
+ }
+ li h2{
+padding: 0px;
+display: block;
+padding-left: 150px;
+color: rgb(255, 13, 13);
+text-align:center;
+ }
+ .vl {
+    border-left: 6px solid black;
+    height: 600px;
+    margin-left: 50%;
+  }
+  ul li h2:hover{
+      color: chartreuse;
+  }
